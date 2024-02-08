@@ -2,8 +2,7 @@
 
 ## Overview
 
-Welcome to my GitHub profile! I am Bhawani Singh Bhati, a passionate Data Analyst with experience in handling and analyzing diverse datasets. My skill set includes SQL, Python, Automation using Selenium, Data Modelling, ETL, Excel, Pyspark, Microsoft Power BI, and Data Visualization. I am currently working as a Data Analyst at Khanuja Group.
-
+Welcome to my GitHub profile! I am Bhawani Singh Bhati, a passionate Data Analyst with experience in handling and analyzing diverse datasets. My skill set includes SQL, Python, Automation using Selenium, Data Modelling, ETL, Excel, Pyspark, Microsoft Power BI, and Data Visualization.
 ## Projects
 
 ### Exploratory Data Analysis on Real Estate Dataset
